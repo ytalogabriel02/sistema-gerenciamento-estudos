@@ -1,10 +1,13 @@
-Sistema-gerenciamento-estudos
-Projeto da disciplina de PDS - Sistema de Gerenciamento de Estudos
+# Sistema de Gerenciamento de Estudos
 
-Objetivo
+Projeto desenvolvido para a disciplina de Análise e Projeto Orientado a Objetos (APOO).
+
+## Objetivo
+
 Auxiliar estudantes na organização dos estudos por meio do gerenciamento de cronogramas, tarefas e acompanhamento do progresso.
 
-Tecnologias
+## Tecnologias
+
 - Java
 - GitHub Projects
 - Scrum
