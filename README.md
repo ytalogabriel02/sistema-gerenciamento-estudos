@@ -8,7 +8,6 @@ Auxiliar estudantes na organização dos estudos por meio do gerenciamento de cr
 
 ## Tecnologias
 
-- Java
 - GitHub Projects
 - Scrum
 - UML
