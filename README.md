@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Estudos
 
-Projeto desenvolvido para a disciplina de Projeo de Desenvolvimento de Software.
+Projeto desenvolvido para a disciplina de Projeto de Desenvolvimento de Software.
 
 ## Objetivo
 
