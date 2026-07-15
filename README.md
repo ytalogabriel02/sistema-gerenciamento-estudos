@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Estudos
 
-Projeto desenvolvido para a disciplina de Análise e Projeto Orientado a Objetos (APOO).
+Projeto desenvolvido para a disciplina de Projeo de Desenvolvimento de Software.
 
 ## Objetivo
 
